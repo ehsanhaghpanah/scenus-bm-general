@@ -1,2 +1,2 @@
-# scenus-high-perf
-a bunch of C# code to test how we can reach to high performance computing in .Net
+# scenus Benchmarking General
+scenüs Framework, sample source code for benchmarking patterns and practices (General)
